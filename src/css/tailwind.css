@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+@layer base {
+  html {
+    @apply text-[18px] text-white;
+  }
+  body {
+    @apply bg-VeryDarkBlue m-0 p-0 w-full h-full md:h-screen flex justify-center items-center;
+  }
+}
