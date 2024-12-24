@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     document.body.style.transition = "background-color 0.5s ease";
     if (isDay) {
-      document.body.style.backgroundColor = "#F8F8F0";
+      document.body.style.backgroundColor = "#FEFCFF";
     } else {
       document.body.style.backgroundColor = "";
     }
