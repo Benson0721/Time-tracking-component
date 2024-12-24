@@ -58,7 +58,6 @@ Users should be able to:
 
 ### What I learned
 
-What I Learned
 This practice helped me strengthen my understanding of React state and grid concepts. To be honest, the time I spent on it wasn't very long. So, I decided to add new features to this project! It looks nice, and completing the day/night pattern taught me a bit about color schemes.
 
 ### Continued development

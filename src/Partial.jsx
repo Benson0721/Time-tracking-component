@@ -61,7 +61,6 @@ export default function Partial({ data, isDay, isAnimating, selected }) {
             Last Week - {timeframes[selected].previous}hrs
           </p>
         </div>
-        <h2></h2>
       </article>
     </section>
   );
